@@ -1,4 +1,4 @@
-layout: stacked
+layout: sidebar
 style: dark
 repository : X-DSI/X-DSI.github.io
 
@@ -48,8 +48,8 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
+  - name: Photography
+    web_url: www.google.com
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
   - name: Web design
